@@ -1,0 +1,13 @@
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Service.runtimeconfig.json
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Service.runtimeconfig.dev.json
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Database.dll
+C:\Users\Teshem\source\repos\WebApplication\Service\bin\Debug\netcoreapp3.0\Database.pdb
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.dll
+C:\Users\Teshem\source\repos\WebApplication\Service\obj\Debug\netcoreapp3.0\Service.pdb
